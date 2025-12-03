@@ -1,0 +1,5 @@
+{
+  "name": "EasyStore AI Commander",
+  "description": "A powerful dashboard connecting to EasyStore API, enhanced with Gemini AI for product description generation and sales insights.",
+  "requestFramePermissions": []
+}
